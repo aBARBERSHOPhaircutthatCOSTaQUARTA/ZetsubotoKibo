@@ -10,8 +10,8 @@ Zetsubo to Kibo is a repository dedicated to transforming challenges into opport
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
-- npm or yarn
+- Python 3.7 or higher
+- pip (Python package manager)
 
 ### Installation
 
@@ -22,14 +22,14 @@ git clone https://github.com/aBARBERSHOPhaircutthatCOSTaQUARTA/ZetsubotoKibo.git
 # Navigate to the project directory
 cd ZetsubotoKibo
 
-# Install dependencies
-npm install
+# Install dependencies (if any)
+pip install -r requirements.txt
 ```
 
 ### Usage
 
 ```bash
-npm start
+python src/main.py
 ```
 
 ## Project Structure
